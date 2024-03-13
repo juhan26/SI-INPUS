@@ -1,7 +1,7 @@
-# SI-INPUS
+# SI-INPUS ( Desktop Application)
 SI INPUS (Sistem Informasi Perpustakaan) 
 
- # Built desktop application using VB .net and MySQL that allow users borrow and return books. Allow admin to manage the system.
+ Built desktop application using VB .net and MySQL that allow users borrow and return books. Allow admin to manage the system.
 
 
 
